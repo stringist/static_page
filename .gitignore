@@ -7,6 +7,19 @@ all pages
 
 category page
     define categories - gender, type, season? brands
+    ID
+    GENDER          men/women/unisex
+    CATEGORY        apparel/accessories
+    SUBCATEGORY     topwear/bags
+    ARTICLETYPE     tshirts/backpacks/jackets
+    SEASON
+    PROductionyear
+    usagetype
+    PRODUCTDISPLAYNAME
+    PRICE
+    DISCOUNT        null or percentage(?)
+    BRANDNAME
+    SOLDOUT         0 or 1
 
 product list
     list products
