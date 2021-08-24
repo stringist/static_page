@@ -3,7 +3,7 @@ To Do:
 all pages
     global nav
     footer
-    styling
+    styling - glass look? rounded white with shadows for now
 
 category page
     define categories
@@ -12,6 +12,8 @@ product list
     list products
     styling - cards
     which information?
+    sold out - low opacity/grey
+    discount - color box, percentage
 
 Product page
     details
