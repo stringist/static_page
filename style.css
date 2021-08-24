@@ -5,9 +5,10 @@
 ul {
     list-style: none;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 a {
-    style: none;
+    text-decoration: none;
+    color: black;
 }
