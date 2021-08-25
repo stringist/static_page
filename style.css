@@ -29,4 +29,6 @@ article {
     border-radius: 1rem;
     box-shadow: .5rem .5rem 1rem rgba(185, 185, 185, 0.555);
     padding: 1rem;
+    display: flex;
+    flex-direction: column;
 }
