@@ -9,8 +9,12 @@ body {
 
 ul {
     list-style: none;
+}
+
+nav ul {
     display: flex;
     justify-content: space-around;
+    background-color: rgba(0, 140, 255, 0.555);
 }
 
 a {
