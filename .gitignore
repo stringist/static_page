@@ -3,23 +3,22 @@ To Do:
 all pages
     global nav
     footer
-    styling - glass look? rounded white with shadows for now
-
-category page
-    define categories - gender, type, season? brands
-    ID
-    GENDER          men/women/unisex
-    CATEGORY        apparel/accessories
-    SUBCATEGORY     topwear/bags
-    ARTICLETYPE     tshirts/backpacks/jackets
-    SEASON
-    PROductionyear
-    usagetype
-    PRODUCTDISPLAYNAME
-    PRICE
-    DISCOUNT        null or percentage(?)
-    BRANDNAME
-    SOLDOUT         0 or 1
+   
+# category page
+#     define categories - gender, type, season? brands
+#     ID
+#     GENDER          men/women/unisex
+#     CATEGORY        apparel/accessories
+#     SUBCATEGORY     topwear/bags
+#     ARTICLETYPE     tshirts/backpacks/jackets
+#     SEASON
+#     PROductionyear
+#     usagetype
+#     PRODUCTDISPLAYNAME
+#     PRICE
+#     DISCOUNT        null or percentage(?)
+#     BRANDNAME
+#     SOLDOUT         0 or 1
 
 product list
     list products
@@ -32,3 +31,4 @@ Product page
     details
     checkout option (aside?)
 
+make dynamic pdocuct age, product list, brands/subcategories/gender categories
