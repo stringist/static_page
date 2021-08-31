@@ -16,3 +16,5 @@ function showProduct(product) {
     document.querySelector("img.product_image").src = `https://kea-alt-del.dk/t7/images/webp/1000/${product.id}.webp`;
     document.querySelector("img.product_image").alt = product.productdisplayname;
 }
+
+//
